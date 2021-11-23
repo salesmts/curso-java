@@ -1,0 +1,20 @@
+package fundamentos;
+
+import java.util.Scanner;
+
+// Receber 3 strings via Scanner, últimos três salários, calcular a média.
+// O funcionário pode separar as casas decimais utilizando ponto ou vírgula!
+
+public class DesafioConversao {
+	public static void main (String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+		System.out.print("Digite o primeiro salário: ");
+		System.out.print("Digite o segundo salário: ");
+		System.out.print("Digite o terceiro salário: ");
+		entrada.nextLine();
+		
+		
+		
+	}
+}

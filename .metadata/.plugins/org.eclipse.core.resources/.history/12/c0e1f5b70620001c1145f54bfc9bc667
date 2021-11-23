@@ -1,0 +1,38 @@
+package fundamentos;
+
+import java.util.Scanner;
+
+// Receber 3 strings via Scanner, últimos três salários, calcular a média.
+// O funcionário pode separar as casas decimais utilizando ponto ou vírgula!
+
+public class DesafioConversao {
+	public static void main (String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		// Entradas dos salários do usuário
+		// Atribuição das às entradas às variáveis
+		System.out.print("Digite o primeiro salário: ");
+		String salario1 = entrada.nextLine().replace(",", ".");
+		
+		System.out.print("\nDigite o segundo salário: ");
+		String salario2 = entrada.nextLine().replace(",", ".");
+		
+		System.out.print("\nDigite o terceiro salário: ");
+		String salario3 = entrada.nextLine().replace(",", ".");
+		
+		// Conversão utilizando .parseDouble String -> Double
+		double salarioUm = Double.parseDouble(salario1);
+		double salarioDois = Double.parseDouble(salario2);
+		double salarioTres = Double.parseDouble(salario3);
+		
+		// Variável que calcula a média dos três salários
+		double mediaSalario = (salarioUm + salarioDois + salarioTres) / 3;
+		
+		// Saída da String com a média final
+		System.out.printf("A média salarial é: R$%.3f reais. ", mediaSalario);
+		
+		entrada.close();
+		
+	}
+}

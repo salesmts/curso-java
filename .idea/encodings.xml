@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/exercicios/src/Collections/ConjuntoBaguncado.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/Collections/ConjuntoComportado.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/Collections/List.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/Collections/Usuario.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/arrays/DesafioArrays.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/arrays/Matriz.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/classe/DataTest.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/classe/ProdutoTeste.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/classe/desafio/Comida.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/classe/desafio/Jantar.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/classe/desafio/Pessoa.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/DesafioDiaSemana.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/DesafioIf.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/DesafioNumeroPar.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/DesafioWhile.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/DoWhile.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/If.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/IfElse.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/IfElseIf.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/SwitchSemBreak.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/SwitchWithBreak.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/controle/WhileIndeterminado.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/fundamentos/DesafioCalculadora.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/fundamentos/operadores/Logicos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/exercicios/src/oo/composicao/desafio/Sistema.java" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="ISO-8859-1" />
+  </component>
+</project>
